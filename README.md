@@ -3,9 +3,9 @@ A python machine learning project done under intership of "Indian Servers" Compa
 The project is to classify a music genre from 10 categories using LSTM Neural Network.
 
 Project Members:
-Bharat Dave
-Vinayak Chavan
-Ajaykumar Gupta
+Bharat Dave  -- 
+Vinayak Chavan -- 
+Ajaykumar Gupta  --
 Rutvik Bhalekar
 
 Project Done Under Internship of Indian Servers Group 191 Batch 11
