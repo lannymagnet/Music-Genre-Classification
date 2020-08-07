@@ -2,7 +2,7 @@
 A python machine learning project done under intership of "Indian Servers" Company.
 The project is to classify a music genre from 10 categories using LSTM Neural Network.
 
-Project Members:
+Project Members -- :
 Bharat Dave  -- 
 Vinayak Chavan -- 
 Ajaykumar Gupta  --
